@@ -27,15 +27,7 @@ public class merge_sort {
             outputindex++;
         }
 
-        while (ptr2 < n2) {
-            output[outputindex] = arr2[ptr2];
-            ptr2++;
-            outputindex++;
-        }
-
-    }
-
-    static v 
+       
 
     static void divide(int arr[],int start,int end){
         printarr(arr,start,end);
