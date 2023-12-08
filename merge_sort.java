@@ -27,7 +27,6 @@ public class merge_sort {
             outputindex++;
         }
 
-       
 
     static void divide(int arr[],int start,int end){
         printarr(arr,start,end);

@@ -1,3 +1,5 @@
+// Heap Sort is possible only if we have complete binary tree.
+
 import java.util.Arrays;
 
 public class Heap_sort {
